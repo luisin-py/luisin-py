@@ -17,7 +17,7 @@
 
 ### 🔭 Sobre Mim & Pesquisa Atual
 
-- 🎓 **Pesquisa Acadêmica (PPGMM / UFPel):** Modelagem computacional e *Scientific Machine Learning* — trabalhando com **Redes Neurais Informadas por Física (PINNs)**, **PySHRED (Shallow Recurrent Decoders)**, sistemas neuro-fuzzy (**ANFIS**) e **LSTM** aplicados à hidrodinâmica (Lagoa dos Patos e Barra de Rio Grande) e equações diferenciais parciais.
+- 🎓 **Pesquisa Acadêmica (PPGMat / UFPel):** Modelagem computacional e *Scientific Machine Learning* — trabalhando com **Redes Neurais Informadas por Física (PINNs)**, **PySHRED (Shallow Recurrent Decoders)**, sistemas neuro-fuzzy (**ANFIS**) e **LSTM** aplicados à hidrodinâmica (Lagoa dos Patos e Barra de Rio Grande) e equações diferenciais parciais.
 - 💼 **Atuação em IA & Dados:** Desenvolvimento de pipelines preditivos e séries temporais em produção (**LSTM, CNN, LightGBM**), **Marketing Mix Modeling (MMM com Robyn & PyMC)**, engenharia de dados em nuvem (**Google BigQuery / SQL**) e automações inteligentes.
 - 📚 **Ensino & Extensão:** Autor de **4 artigos em periódicos** e **12 trabalhos em anais** (XXIX ENMC 2026, CNMAC 2025/2026, ERMAC-RS, Bienal SBM). Ministrei **9 minicursos** de Python aplicado a Cálculo e Álgebra Linear (Projeto TEMAT/FURG).
 
@@ -30,7 +30,7 @@
 | **[pyshred_lagoa_dos_patos](https://github.com/luisin-py/pyshred_lagoa_dos_patos)** | `SciML · Dissertação` | Reconstrução de campos vetoriais 2D de correntes na Lagoa dos Patos via **PySHRED**, dados esparsos de vento/chuva/maré e BigQuery. | [Código](https://github.com/luisin-py/pyshred_lagoa_dos_patos) |
 | **[prev_correnteza](https://github.com/luisin-py/prev_correnteza)** | `Séries Temporais · Produção` | Modelo V7 de previsão de correnteza no Porto de Rio Grande (+1h a +6h) com *Leads Meteorológicos*, LSTM e arquitetura serverless. | [Código](https://github.com/luisin-py/prev_correnteza) |
 | **[ifood-pelotas-spatiotemporal](https://github.com/luisin-py/ifood-pelotas-spatiotemporal)** | `ROM-SVD · PyTorch` | Previsão espaço-temporal com malha hexagonal **Uber H3**, redução de ordem (**ROM via SVD**) + **PyTorch LSTM** e alocação dinâmica de frota. | [Código](https://github.com/luisin-py/ifood-pelotas-spatiotemporal) |
-| **[mecanica-dos-fluidos](https://github.com/luisin-py/mecanica-dos-fluidos)** | `Navier-Stokes · HTML5` | Simuladores interativos em HTML5 e notebooks de Mecânica dos Fluidos (Couette-Poiseuille, Análise Tensorial — PPGMMat/UFPel). | [Demo Live](https://luisin-py.github.io/mecanica-dos-fluidos/) · [Código](https://github.com/luisin-py/mecanica-dos-fluidos) |
+| **[mecanica-dos-fluidos](https://github.com/luisin-py/mecanica-dos-fluidos)** | `Navier-Stokes · HTML5` | Simuladores interativos em HTML5 e notebooks de Mecânica dos Fluidos (Couette-Poiseuille, Análise Tensorial — PPGMat/UFPel). | [Demo Live](https://luisin-py.github.io/mecanica-dos-fluidos/) · [Código](https://github.com/luisin-py/mecanica-dos-fluidos) |
 | **[ETL-FINANCE](https://github.com/luisin-py/ETL-FINANCE)** | `Engenharia de Dados · B3` | Pipeline ETL automatizado em Python + SQLite e dashboard interativo em Streamlit/Plotly para ativos da B3. | [Código](https://github.com/luisin-py/ETL-FINANCE) |
 | **[Conversor-imagens-para-.tex](https://github.com/luisin-py/Conversor-imagens-para-.tex)** | `IA Generativa · LaTeX` | Conversor de imagens de equações matemáticas para código LaTeX usando Google Generative AI. | [Código](https://github.com/luisin-py/Conversor-imagens-para-.tex) |
 
