@@ -5,6 +5,7 @@
 **Mestrando em Modelagem Matemática (UFPel · Bolsista CAPES) | Engenheiro de IA & Analista de BI**  
 *Bacharel em Matemática Aplicada pela Universidade Federal do Rio Grande (FURG)*
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Online-18181B?style=for-the-badge&logo=netlify&logoColor=white)](https://luisfernandessaucedosouza.netlify.app/)
 [![Lattes](https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-1061621308809232-0B4F6C?style=for-the-badge&logo=academia&logoColor=white)](https://lattes.cnpq.br/1061621308809232)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2704--347X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2704-347X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernandes-6161ba248)
